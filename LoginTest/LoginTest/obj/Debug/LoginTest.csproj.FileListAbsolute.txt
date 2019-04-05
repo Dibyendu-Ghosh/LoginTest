@@ -1,0 +1,6 @@
+D:\LoginTest\LoginTest\bin\LoginTest.dll.config
+D:\LoginTest\LoginTest\bin\LoginTest.dll
+D:\LoginTest\LoginTest\bin\LoginTest.pdb
+D:\LoginTest\LoginTest\obj\Debug\LoginTest.csprojResolveAssemblyReference.cache
+D:\LoginTest\LoginTest\obj\Debug\LoginTest.dll
+D:\LoginTest\LoginTest\obj\Debug\LoginTest.pdb
